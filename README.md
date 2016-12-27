@@ -9,4 +9,4 @@ The content script listens for clicks in the page it's attached to. If a click i
 
 The background script listens for this message. When the background script receives the message, it displays a notification containing the href.
 
-The notification's content, as well as the extension's name and description, are localized into German, Dutch, and Japanese, as well as the default en-US.
+The notification's content, as well as the extension's name and description, are in en-US.
