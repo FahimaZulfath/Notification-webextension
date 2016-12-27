@@ -1,1 +1,28 @@
+{
+  "extensionName": {
+    "message": "Notification Extension",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Notify the user via link click",
+    "description": "Description of the extension."
+  },
+
+  "notificationTitle": {
+    "message": "Click Notification",
+    "description": "Title of the click notification."
+  },
+
+  "notificationContent": {
+    "message": "You have clicked on the url : $URL$ ",
+    "description": "Tells the user which link they clicked.",
+    "placeholders": {
+      "url" : {
+        "content" : "$1",
+        "example" : "https://developer.mozilla.org"
+      }
+    }
+  }
+}
 
